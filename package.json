@@ -44,7 +44,10 @@
     "acorn": ">=7.1.1",
     "kind-of": ">=6.0.3",
     "mkdirp": "^0.5.3",
-    "minimist": ">=1.2.5",
+    "minimist": ">=1.2.6",
+    "@babel/traverse": ">=7.23.2",
+    "form-data": "^2.5.4",
+    "json-schema": ">=0.4.0",
     "@types/node": "10.17.27",
     "typescript": "3.9.6"
   }
